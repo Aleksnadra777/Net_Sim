@@ -1,2 +1,2 @@
-# NetSim_Symulacja_Sieci
+tu są pliki do porównania
 
