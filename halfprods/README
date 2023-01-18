@@ -1,0 +1,1 @@
+Do wrzucenia gotowe, należy usunąć przedrostek ../include/ z include'ów, jak nie to może się krzaczyć test (tylko pliki .cpp)
