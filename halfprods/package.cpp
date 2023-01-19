@@ -2,7 +2,7 @@
 // Created by macie on 17.01.2023.
 //
 
-#include "../include/package.hpp"
+#include "package.hpp"
 
 Package::Package() {
     ElementId newId = BLANK_ID;
